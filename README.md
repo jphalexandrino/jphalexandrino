@@ -2,7 +2,7 @@
 
 
 🔭 Atualmente estudando: Html, Css, Js & Php; <br>
-📱 E-mail: mavetz55@gmail.com
+📱 E-mail: sonderinterprise@gmail.com
 
 
 <div style="display: inline_block"><br>
