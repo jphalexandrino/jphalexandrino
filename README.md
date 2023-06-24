@@ -2,7 +2,7 @@
 
 
 🔭 Atualmente estudando: Html, Css, Js & Php; <br>
-📱 E-mail: sonderinterprise@gmail.com
+📱 E-mail: sonderinterprise@gmail.com <br>
 🔗Meu Portfólio: http://jphalexandrino.000.pe/index.html
 
 
