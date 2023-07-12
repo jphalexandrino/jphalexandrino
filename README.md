@@ -3,8 +3,8 @@
 
 🔭 Atualmente estudando: Html, Css, Js & Php; <br>
 📱 E-mail: sonderinterprise@gmail.com <br>
-➕Minhas redes sociais: https://linktr.ee/sonder_cs<br>
-🔗Meu Portfólio: http://jphalexandrino.000.pe/index.html
+<a href="https://linktr.ee/sonder_cs">➕Minhas redes sociais:</a><br>
+<a href="http://jphalexandrino.000.pe/index.html">🔗Meu Portfólio:</a>
 
 
 <div style="display: inline_block"><br>
