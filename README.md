@@ -1,6 +1,6 @@
 <h1> João Pedro Hack :brazil:  </h1> 
 
-® CEO: AlexandrinoProDev <br>
+® CEO: <a href="https://www.instagram.com/alexandrinoprodev/"> AlexandrinoProDev </a> <br>
 📱 E-mail: sonderinterprise@gmail.com <br>
 ➕Minhas redes sociais: <a href="https://linktr.ee/sonder_cs">Link</a><br>
 🔗Meu Portfólio: <a href="http://jphalexandrino.000.pe/index.html">Link</a>
