@@ -1,7 +1,6 @@
-<h1> 🏄‍♂️ João Pedro H. </h1> 
+<h1> João Pedro H. :brazil:  </h1> 
 
-
-🔭 Atualmente estudando: Html, Css, Js & Php; <br>
+® CEO: AlexandrinoProDev
 📱 E-mail: sonderinterprise@gmail.com <br>
 ➕Minhas redes sociais: <a href="https://linktr.ee/sonder_cs">Link</a><br>
 🔗Meu Portfólio: <a href="http://jphalexandrino.000.pe/index.html">Link</a>
