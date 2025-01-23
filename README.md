@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Pedro Hack</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 📫 How to reach me **sonderinterprise@gmail.com**
+- 📫 How to reach me **jphalexandrino@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
